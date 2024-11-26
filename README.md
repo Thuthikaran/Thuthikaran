@@ -1,4 +1,5 @@
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3OHVhNHQxOXB6eXdoYTZ6cDB0a3pnd243aDRyeW5qNHpnZm02cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D16XHdsB1PBxm/giphy.gif
+![Custom Emoji](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3OHVhNHQxOXB6eXdoYTZ6cDB0a3pnd243aDRyeW5qNHpnZm02cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D16XHdsB1PBxm/giphy.gif)
+
 Hey! Nice to see you.
 
 Welcome to my page! 👋

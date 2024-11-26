@@ -1,10 +1,8 @@
-![Blob Sunglasses](assets/blob-sunglasses.gif)
-
-
 Hey! Nice to see you.
 
-Welcome to my page! 👋
-I'm Thuthikaran, a full-stack developer based in Paris, France.
+Welcome to my page! 👋  
+I'm Thuthikaran, a full-stack developer based in Paris, France.  
+I'm currently working on building web apps with React and Node.js, and I’m diving deeper into full-stack development.
 
 ### 🛠 Tech Stack:
 
@@ -23,3 +21,8 @@ I'm Thuthikaran, a full-stack developer based in Paris, France.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+### 🌍 Let's Connect:
+[LinkedIn](https://www.linkedin.com/in/thuthikaran) | [Twitter](https://twitter.com/thuthikaran)
+
+Feel free to check out my projects below, and don’t hesitate to reach out!

@@ -23,6 +23,6 @@ I'm currently working on building web apps with React and Node.js, and I’m div
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ### 🌍 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/thuthikaran) | [Twitter](https://twitter.com/thuthikaran)
+[LinkedIn](https://www.linkedin.com/in/thuthikaran) | [Slack](http)
 
 Feel free to check out my projects below, and don’t hesitate to reach out!

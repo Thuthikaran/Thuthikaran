@@ -1,4 +1,4 @@
-Hey! Nice to see you.
+<h1>Hey! Nice to see you.</h1>
 <hr>
 Welcome to my page! 👋  
 I'm Thuthikaran, a full-stack developer based in Paris, France.  

@@ -2,7 +2,7 @@ Hey! Nice to see you.
 
 Welcome to my page! 👋  
 I'm Thuthikaran, a full-stack developer based in Paris, France.  
-I'm currently working on building web apps with React and Node.js, and I’m diving deeper into full-stack development.
+I'm currently focused on building modern web applications using React and Node.js.
 
 ### 🛠 Tech Stack:
 

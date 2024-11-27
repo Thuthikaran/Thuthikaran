@@ -1,8 +1,8 @@
 <h1>Hey! Nice to see you.</h1>
 <hr>
 <h3>Welcome to my page! 👋 </h3> 
-<h4>I'm Thuthikaran, a full-stack developer based in Paris, France.  </h4>  
-<h4>I'm currently focused on building modern web applications using React and Node.js.</h4>  
+<p>I'm Thuthikaran, a full-stack developer based in Paris, France.  </p>  
+<p>I'm currently focused on building modern web applications using React and Node.js.</p>  
 
 
 ### 🛠 Tech Stack:

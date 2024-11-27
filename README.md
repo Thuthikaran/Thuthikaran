@@ -1,5 +1,5 @@
 Hey! Nice to see you.
-
+<hr>
 Welcome to my page! 👋  
 I'm Thuthikaran, a full-stack developer based in Paris, France.  
 I'm currently focused on building modern web applications using React and Node.js.

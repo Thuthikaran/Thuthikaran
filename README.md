@@ -23,4 +23,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-Feel free to check out my projects below, and don’t hesitate to reach out!
+<small>Feel free to check out my projects below, and don’t hesitate to reach out!</small>
+
